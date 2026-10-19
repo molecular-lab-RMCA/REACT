@@ -12,8 +12,7 @@ REACT is coordinated by Justus Liebig University Giessen (Germany). The institut
 | --- | --- |
 | Royal Museum for Central Africa (RMCA) | Belgium |
 | Centre de coopération internationale en recherche agronomique pour le développement (CIRAD) | France |
-| Agricultural Research Organization (ARO), Volcani Center | Israel |
-| inSilico-IPM | Poland |
+
 
 ## Repositories
 
